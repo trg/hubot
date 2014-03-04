@@ -1,1 +1,1 @@
-web: bin/hubot -a twitter -n ron_bot
+web: bin/hubot
