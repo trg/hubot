@@ -29,7 +29,7 @@
     "scoped-http-client": "0.9.8",
     "log":                "1.4.0",
     "express":            "3.3.4",
-    "hubot-twitter":      "*"
+    "hubot-slack":      "*"
   },
 
   "engines": {
